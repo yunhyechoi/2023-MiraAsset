@@ -62,6 +62,9 @@
 1. 다각화된 테마 정보 제공
 2. 개인화된 테마 추천에 활용 가능
 3. 고객의 관심 테마 정보를 통한 다이렉트 인덱싱에 활용 가능
+   
+![image](https://github.com/user-attachments/assets/6feed8d6-e6d5-4f41-baf2-6b3a462b8682)
+
 
 </br>
 
