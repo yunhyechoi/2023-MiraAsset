@@ -1,4 +1,6 @@
-## 주식 테마 탐지 및 테마 네트워크 시각화 서비스
+# 2023-MiraAsset
+
+[공모전] LLM을 활용한 금융서비스 제안 : 주식 테마 네트워크 시각화
 
 ---
 
@@ -48,3 +50,4 @@ theme_network.ipynb : 테마 네트워크를 구축하고 시각화하는 코드
 2. 콘솔에서 Services > AI, NAVER API > Application에서 Application 등록
 3. CLOVA Summary API를 발급하고, 인증 정보에서 Client ID 및 Password 확인
 4. clovasummary.py에서 ID, password를 입력
+
